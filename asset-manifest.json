@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kmkwork.github.io/csb-w3otcb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kmkwork.github.io/csb-w3otcb/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://kmkwork.github.io/csb-w3otcb/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://kmkwork.github.io/csb-w3otcb/static/js/runtime-main.b4bd35e5.js",
+    "runtime-main.js.map": "https://kmkwork.github.io/csb-w3otcb/static/js/runtime-main.b4bd35e5.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://kmkwork.github.io/csb-w3otcb/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://kmkwork.github.io/csb-w3otcb/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://kmkwork.github.io/csb-w3otcb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kmkwork.github.io/csb-w3otcb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://kmkwork.github.io/csb-w3otcb/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4bd35e5.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
